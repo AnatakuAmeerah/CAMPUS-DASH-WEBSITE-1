@@ -2,9 +2,9 @@
 import './App.css'
 import NavBar from './Components/Nav-bar/navBar';
 import React from 'react';
-import TermOfUse from './components/TermofUse/termOfUse';
-import AboutUs from './components/AboutUs/aboutUs';
-import Footer from './components/LandingPage/FooterSection/footerSection';
+import TermOfUse from "./Components/TermofUse/termOfUse";
+import AboutUs from "./Components/AboutUs/aboutUs";
+import Footer from "./Components/LandingPage/FooterSection/footerSection";
 import { Route, Routes } from 'react-router-dom';
 import Landing from './Components/LandingPage/Landing/landingPage';
 import PrivacyPolicy from "./Components/Privacypolicy/privacyPolicy";
