@@ -1,4 +1,4 @@
-import NavBar from "../LandingPage/Nav-bar/navBar";
+import NavBar from "../Nav-bar/navBar";
 import "./privacyPolicy.css";
 
 function PrivacyPolicy() {

@@ -13,7 +13,7 @@
 // export default App
 
 import './App.css'
-import NavBar from './components/LandingPage/Nav-bar/navBar';
+import NavBar from './Components/Nav-bar/navBar';
 import React from 'react';
 import LandingPage from './components/LandingPage/landingPage';
 import TermOfUse from './components/TermofUse/termOfUse';

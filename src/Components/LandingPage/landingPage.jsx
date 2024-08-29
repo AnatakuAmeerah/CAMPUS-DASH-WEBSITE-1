@@ -1,4 +1,4 @@
-import NavBar from "./Nav-bar/navBar";
+
 import AboutTheApp from "./section-2/aboutTheApp";
 import HeroSection from "./HeroSection/heroSection";
 import GridSection from "./GridSection/gridSection";

@@ -1,5 +1,5 @@
 import "./herosection.css";
-import NavBar from "../Nav-bar/navBar";
+import NavBar from "../../Nav-bar/navBar";
 
 
 function HeroSection() {
