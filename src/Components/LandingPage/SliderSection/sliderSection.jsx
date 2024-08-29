@@ -60,7 +60,7 @@ function Slider(){
         </>
     )
 }
-export default Slider
+export default Slider;
 // const imgSlide= 
 // [
 // {name:"Mia Taylor", type:"Vendor",review: "CampusDash has completely transformed the way I do business on campus. As a vendor, reaching students used to be a challenge, but now my products are just a few clicks away from thousands of potential customers. The platform is incredibly user-friendly, and the support from the CampusDash team has been fantastic. My sales have increased, and I've built stronger connections with the student community. I can't imagine running my business without it."},

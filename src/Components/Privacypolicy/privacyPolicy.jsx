@@ -1,4 +1,4 @@
-import NavBar from "../Nav-bar/navBar";
+
 import "./privacyPolicy.css";
 
 function PrivacyPolicy() {
@@ -115,4 +115,4 @@ function PrivacyPolicy() {
         </>
     )
 }
-export default PrivacyPolicy
+export default PrivacyPolicy;

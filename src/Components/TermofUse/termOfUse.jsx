@@ -81,4 +81,4 @@ function TermOfUse() {
         </>
     )
 }
-export default TermOfUse
+export default TermOfUse;

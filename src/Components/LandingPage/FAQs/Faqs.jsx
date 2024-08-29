@@ -91,4 +91,4 @@ function Faqs() {
         </>
     )
 }
-export default Faqs
+export default Faqs;

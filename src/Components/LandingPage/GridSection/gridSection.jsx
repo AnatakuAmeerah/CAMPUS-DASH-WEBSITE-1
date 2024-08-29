@@ -46,4 +46,4 @@ function GridSection() {
         </>
     )
 }
-export default GridSection
+export default GridSection;

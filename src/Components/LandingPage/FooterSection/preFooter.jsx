@@ -14,4 +14,4 @@ function PreFooter(){
         </>
     )
 }
-export default PreFooter
+export default PreFooter;

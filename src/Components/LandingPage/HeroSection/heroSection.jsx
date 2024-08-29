@@ -1,5 +1,4 @@
 import "./herosection.css";
-import NavBar from "../../Nav-bar/navBar";
 
 
 function HeroSection() {
@@ -25,4 +24,4 @@ function HeroSection() {
         </>
     )
 }
-export default HeroSection
+export default HeroSection;
